@@ -1,0 +1,10 @@
+streamlit
+requests
+matplotlib
+wordcloud
+newsapi-python
+newspaper3k
+transformers
+torch
+nltk
+lxml_html_clean
